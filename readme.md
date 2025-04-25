@@ -7,6 +7,14 @@ A Node.js implementation of a Git repository browser using the Model Context Pro
 
 ## Installation
 
+### Installing via Smithery
+
+To install Git Repository Browser for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@bsreeram08/git-commands-mcp):
+
+```bash
+npx -y @smithery/cli install @bsreeram08/git-commands-mcp --client claude
+```
+
 ### NPM (Recommended)
 
 ```bash
